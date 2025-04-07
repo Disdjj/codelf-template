@@ -1,6 +1,6 @@
-## datetime {commit summarize}
+## {datetime: YYYY-MM-DD HH:mm:ss}
 
-1. {function content} 
+1. {function content}
    ```
    root
    - pkg    // {type: add/del/refact/-} {The role of a folder}
@@ -8,7 +8,7 @@
    - xxx    // {type: add/del/refact} {The function of the file}
    ```
 
-2. {function content} 
+2. {function content}
    ```
    root
    - pkg    // {type: add/del/refact/-} {The role of a folder}
