@@ -32,6 +32,6 @@
 
 > In the code block below, add comments to the directories/files to explain their functionality and usage scenarios.
 
-> if you think the directory/file is not important, you can skip it.
+> if you think the directory/file is not important, you can not skip it, just add a simple comment to it.
 
 > but if you think the directory/file is important, you should read the files and add more detail comments on it (e.g. add comments on the functions, classes, and variables. explain the functionality and usage scenarios. write the importance of the directory/file).
